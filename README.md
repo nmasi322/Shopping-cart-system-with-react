@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Shopping-cart-system-with-react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a react shopping cart system I built with react. Just a simple counter app. Have fun!
 
 ## Available Scripts
 
@@ -68,3 +68,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Shopping-cart-system-with-react
